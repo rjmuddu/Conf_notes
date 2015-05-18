@@ -2,9 +2,8 @@
 
 The STAReast 2015 conference had some great keynote addresses (see below for links to on-demand videos). The one on Deliberate testing in an Agile World was a great presentation that stressed on how a tester should think about various testing methods.
 
-During the remaining part of the day, there were concurrent sessions, so I attended the ones that seemed relevant to my work (DataQuality) and some more that seemed relevant to our goals as QA engineers in MM (namely, Continous Integration).
-
-There were designated expo-hours during which companies gave some quick demos of testing tools. Notable among them were - SauceLabs and SmartBear (SoapUI)
+A number of sessions in the conference were based on Continous Integration. There were concurrent sessions, so I attended the ones that seemed relevant to my tribe's work (DataQuality). 
+There were designated expo-hours during which companies gave some quick demos of testing tools. Notable among them were - SauceLabs, SmartBear (SoapUI) and MindTree's testing in the cloud. 
 
 On the final day,I attended a workshop on Regulated Software testing where I got to interact with some folks in the industry who work in highly compliant companies. This was an open forum where we shared some best practices. One group from S&P seemed to have a very methodical process for bug tracking reports etc. During this session, some great books on software testing were discussed. You can find the links to the books below.
 
@@ -19,3 +18,5 @@ On Demand Videos of select sessions:
 Link: https://vts.inxpo.com/scripts/Server.nxp?LASCmd=L:0&AI=1&ShowKey=24500&LoginType=0&InitialDisplay=1&ClientBrowser=0&DisplayItem=NULL&LangLocaleID=0&SSO=1
 Username:mm_qa
 Password:mm_qa
+
+I recorded a couple of sessions I attended. I'll edit those recordings to remove noise etc. and post them here.
